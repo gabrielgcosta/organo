@@ -1,3 +1,8 @@
+# Descrição do projeto
+
+O projeto foi feito como forma de estudo para React. A idéia é uma organograma que permite o cadastro de colaboradores de uma empresa, onde ao ser realizado o cadastro, o aplicativo adiciona um cardo com o colaborador cadastrado, separando os times da empresa.
+Caso queira visualizar o funcionamento da aplicação: https://organo-lime-chi.vercel.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
